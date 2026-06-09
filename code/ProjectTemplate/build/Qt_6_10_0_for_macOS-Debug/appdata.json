@@ -1,0 +1,34 @@
+{
+    "categories": [
+        {
+            "budgetLimit": 500,
+            "name": "Groceries",
+            "totalSpent": 250
+        }
+    ],
+    "expenses": [
+        {
+            "amount": 250,
+            "category": "Groceries",
+            "date": "2026-03-05",
+            "desc": "Food Basics"
+        }
+    ],
+    "irregularIncomes": [
+    ],
+    "monthlyIncomes": [
+        {
+            "amount": 15000,
+            "date": "2026-03-27",
+            "source": "Work"
+        }
+    ],
+    "profile": {
+        "age": 28,
+        "monthlyBudget": 5000,
+        "name": "Krish",
+        "passwordEnabled": false,
+        "passwordHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "savingGoal": 10000
+    }
+}
